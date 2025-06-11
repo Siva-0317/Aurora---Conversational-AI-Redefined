@@ -1,0 +1,2002 @@
+[
+  {
+    "text": "Could you note these as pending tasks today.",
+    "label": 1
+  },
+  {
+    "text": "Would you tell me a joke now.",
+    "label": 0
+  },
+  {
+    "text": "Please add these items to my agenda for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Hey, how are you? this week.",
+    "label": 0
+  },
+  {
+    "text": "I want to allocate time for these tasks for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Can you can you chat with me? this week.",
+    "label": 0
+  },
+  {
+    "text": "Could you who created you? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Could you tell me something interesting this week.",
+    "label": 0
+  },
+  {
+    "text": "Please tell me about yourself now.",
+    "label": 0
+  },
+  {
+    "text": "Can you can you feel anything? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Could you what's your favorite food? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Hey, remind me to do these tasks later this week.",
+    "label": 1
+  },
+  {
+    "text": "Please list my pending tasks now.",
+    "label": 1
+  },
+  {
+    "text": "I need to plan my tasks for today in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Hey, do you remember me? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I want to what\u2019s your favorite color? today.",
+    "label": 0
+  },
+  {
+    "text": "I need to what's your favorite food? now.",
+    "label": 0
+  },
+  {
+    "text": "Please what's your favorite food? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you tell me something interesting in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Could you log these tasks in my checklist now.",
+    "label": 1
+  },
+  {
+    "text": "Could you log these tasks in my checklist this week.",
+    "label": 1
+  },
+  {
+    "text": "Can you what time is it? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Would you who created you? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "I want to do you like music? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Hey, what's your favorite food? today.",
+    "label": 0
+  },
+  {
+    "text": "I need to log these tasks in my checklist now.",
+    "label": 1
+  },
+  {
+    "text": "Hey, assign me these tasks for tomorrow in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Could you make a timetable for my daily chores ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I need to do you have emotions? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Please queue these tasks in order of importance for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I need to can you chat with me? now.",
+    "label": 0
+  },
+  {
+    "text": "Would you assign me these tasks for tomorrow for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Could you what\u2019s your favorite color? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Would you do you have emotions? now.",
+    "label": 0
+  },
+  {
+    "text": "Would you arrange my tasks by priority if possible.",
+    "label": 1
+  },
+  {
+    "text": "Hey, list my pending tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "Hey, log these tasks in my checklist this week.",
+    "label": 1
+  },
+  {
+    "text": "Hey, set up a task list for monday in my planner.",
+    "label": 1
+  },
+  {
+    "text": "I want to set up a task list for monday in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Could you what do you think about movies? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Can you build a routine with these tasks now.",
+    "label": 1
+  },
+  {
+    "text": "I want to list my pending tasks ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I want to what's your name? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I need to where are you from? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Would you what\u2019s your favorite color? this week.",
+    "label": 0
+  },
+  {
+    "text": "Would you what's your name? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Hey, do you like music? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "I need to what's the weather like? now.",
+    "label": 0
+  },
+  {
+    "text": "Would you plan my tasks for today this week.",
+    "label": 1
+  },
+  {
+    "text": "Could you can you chat with me? now.",
+    "label": 0
+  },
+  {
+    "text": "Hey, what's your name? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Would you do you have emotions? now.",
+    "label": 0
+  },
+  {
+    "text": "I want to tell me something interesting in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Can you do you have emotions? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Could you what's your name? today.",
+    "label": 0
+  },
+  {
+    "text": "I need to can you explain black holes? today.",
+    "label": 0
+  },
+  {
+    "text": "Hey, make a timetable for my daily chores ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Can you do you remember me? now.",
+    "label": 0
+  },
+  {
+    "text": "I want to add these items to my agenda now.",
+    "label": 1
+  },
+  {
+    "text": "Would you can you explain black holes? today.",
+    "label": 0
+  },
+  {
+    "text": "I want to allocate time for these tasks now.",
+    "label": 1
+  },
+  {
+    "text": "Can you do you like music? this week.",
+    "label": 0
+  },
+  {
+    "text": "Hey, how are you? this week.",
+    "label": 0
+  },
+  {
+    "text": "Can you tell me something interesting today.",
+    "label": 0
+  },
+  {
+    "text": "Would you make a timetable for my daily chores this week.",
+    "label": 1
+  },
+  {
+    "text": "Hey, structure my day with these tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "Please calendar these tasks for next week this week.",
+    "label": 1
+  },
+  {
+    "text": "Could you what's your favorite food? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Would you what's the weather like? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Could you what do you think about movies? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Would you what do you think about movies? this week.",
+    "label": 0
+  },
+  {
+    "text": "I need to remind me to do these tasks later ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Can you what's the weather like? now.",
+    "label": 0
+  },
+  {
+    "text": "I need to how old are you? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "I need to how are you? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I want to do you like music? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Can you how old are you? now.",
+    "label": 0
+  },
+  {
+    "text": "Hey, can you feel anything? this week.",
+    "label": 0
+  },
+  {
+    "text": "Can you what\u2019s your favorite color? this week.",
+    "label": 0
+  },
+  {
+    "text": "Could you queue these tasks in order of importance in my planner.",
+    "label": 1
+  },
+  {
+    "text": "I need to what\u2019s the capital of france? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Please organize my work for this week today.",
+    "label": 1
+  },
+  {
+    "text": "I want to calendar these tasks for next week ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Can you arrange my tasks by priority in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Would you how are you? now.",
+    "label": 0
+  },
+  {
+    "text": "Hey, map out my tasks for the month if possible.",
+    "label": 1
+  },
+  {
+    "text": "I need to tell me something interesting today.",
+    "label": 0
+  },
+  {
+    "text": "Would you track my to-dos for today in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Can you assign me these tasks for tomorrow now.",
+    "label": 1
+  },
+  {
+    "text": "Can you can you feel anything? now.",
+    "label": 0
+  },
+  {
+    "text": "I need to map out my tasks for the month ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I want to how are you? today.",
+    "label": 0
+  },
+  {
+    "text": "I need to what time is it? now.",
+    "label": 0
+  },
+  {
+    "text": "I want to plan my tasks for today this week.",
+    "label": 1
+  },
+  {
+    "text": "Can you note these as pending tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "I need to queue these tasks in order of importance ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Could you can you feel anything? now.",
+    "label": 0
+  },
+  {
+    "text": "Could you organize my work for this week for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Can you structure my day with these tasks in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Hey, what\u2019s the capital of france? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I need to queue these tasks in order of importance for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Hey, can you explain black holes? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Can you how old are you? this week.",
+    "label": 0
+  },
+  {
+    "text": "Would you who created you? now.",
+    "label": 0
+  },
+  {
+    "text": "I need to jot down these tasks for me now.",
+    "label": 1
+  },
+  {
+    "text": "Can you log these tasks in my checklist for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I need to do you like music? this week.",
+    "label": 0
+  },
+  {
+    "text": "I want to assign me these tasks for tomorrow if possible.",
+    "label": 1
+  },
+  {
+    "text": "I need to where are you from? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Hey, can you feel anything? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I need to log these tasks in my checklist this week.",
+    "label": 1
+  },
+  {
+    "text": "I want to queue these tasks in order of importance now.",
+    "label": 1
+  },
+  {
+    "text": "Hey, tell me something interesting today.",
+    "label": 0
+  },
+  {
+    "text": "Please note these as pending tasks now.",
+    "label": 1
+  },
+  {
+    "text": "Please who created you? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Could you what time is it? if possible.",
+    "label": 0
+  },
+  {
+    "text": "I need to jot down these tasks for me now.",
+    "label": 1
+  },
+  {
+    "text": "Can you do you remember me? now.",
+    "label": 0
+  },
+  {
+    "text": "I need to what\u2019s your favorite color? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Please what's your favorite food? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Can you structure my day with these tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "Can you jot down these tasks for me today.",
+    "label": 1
+  },
+  {
+    "text": "I need to where are you from? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Can you tell me something interesting if possible.",
+    "label": 0
+  },
+  {
+    "text": "Would you what's the weather like? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Hey, queue these tasks in order of importance in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Could you can you chat with me? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Could you what\u2019s the capital of france? now.",
+    "label": 0
+  },
+  {
+    "text": "Can you jot down these tasks for me in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Hey, what\u2019s your favorite color? today.",
+    "label": 0
+  },
+  {
+    "text": "I need to assign me these tasks for tomorrow ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Hey, create a timeline for my project tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "Could you create a timeline for my project tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "Hey, assign me these tasks for tomorrow for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Please set up a task list for monday this week.",
+    "label": 1
+  },
+  {
+    "text": "Please where are you from? now.",
+    "label": 0
+  },
+  {
+    "text": "Please can you explain black holes? if possible.",
+    "label": 0
+  },
+  {
+    "text": "I need to structure my day with these tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "I need to tell me something interesting for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Hey, note these as pending tasks ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I need to create a timeline for my project tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "Hey, what's the weather like? this week.",
+    "label": 0
+  },
+  {
+    "text": "I need to queue these tasks in order of importance for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Can you make a timetable for my daily chores ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Could you jot down these tasks for me ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Would you assign me these tasks for tomorrow for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I want to set up a task list for monday in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Could you how are you? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I want to plan my tasks for today for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I need to where are you from? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Can you what's your name? today.",
+    "label": 0
+  },
+  {
+    "text": "Hey, can you explain black holes? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you what\u2019s your favorite color? now.",
+    "label": 0
+  },
+  {
+    "text": "I want to note these as pending tasks in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Can you allocate time for these tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "Could you set up a task list for monday for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I need to can you feel anything? if possible.",
+    "label": 0
+  },
+  {
+    "text": "I need to do you have emotions? this week.",
+    "label": 0
+  },
+  {
+    "text": "Can you what do you think about movies? now.",
+    "label": 0
+  },
+  {
+    "text": "I need to map out my tasks for the month for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Please remind me to do these tasks later this week.",
+    "label": 1
+  },
+  {
+    "text": "Would you who created you? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you do you remember me? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I need to how old are you? if possible.",
+    "label": 0
+  },
+  {
+    "text": "I need to what do you think about movies? this week.",
+    "label": 0
+  },
+  {
+    "text": "I want to where are you from? if possible.",
+    "label": 0
+  },
+  {
+    "text": "I want to do you like music? this week.",
+    "label": 0
+  },
+  {
+    "text": "Would you what do you think about movies? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I need to what do you think about movies? this week.",
+    "label": 0
+  },
+  {
+    "text": "Can you how old are you? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Please calendar these tasks for next week now.",
+    "label": 1
+  },
+  {
+    "text": "Can you plan my tasks for today if possible.",
+    "label": 1
+  },
+  {
+    "text": "Can you how old are you? this week.",
+    "label": 0
+  },
+  {
+    "text": "I want to plan my tasks for today today.",
+    "label": 1
+  },
+  {
+    "text": "Would you can you chat with me? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you what\u2019s your favorite color? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Please set up a task list for monday if possible.",
+    "label": 1
+  },
+  {
+    "text": "I want to list my pending tasks in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Would you map out my tasks for the month for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Please what\u2019s the capital of france? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I want to can you chat with me? this week.",
+    "label": 0
+  },
+  {
+    "text": "Please tell me a joke in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Could you what\u2019s your favorite color? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I need to can you chat with me? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I want to add these items to my agenda for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Could you build a routine with these tasks for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Hey, map out my tasks for the month for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Would you calendar these tasks for next week this week.",
+    "label": 1
+  },
+  {
+    "text": "Could you map out my tasks for the month this week.",
+    "label": 1
+  },
+  {
+    "text": "Would you allocate time for these tasks now.",
+    "label": 1
+  },
+  {
+    "text": "Please build a routine with these tasks ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Would you calendar these tasks for next week today.",
+    "label": 1
+  },
+  {
+    "text": "Please list my pending tasks now.",
+    "label": 1
+  },
+  {
+    "text": "Could you who created you? now.",
+    "label": 0
+  },
+  {
+    "text": "Hey, remind me to do these tasks later for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Can you organize my work for this week now.",
+    "label": 1
+  },
+  {
+    "text": "Would you what\u2019s the capital of france? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you what's your favorite food? this week.",
+    "label": 0
+  },
+  {
+    "text": "I need to what's the weather like? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Please can you explain black holes? if possible.",
+    "label": 0
+  },
+  {
+    "text": "I want to what time is it? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Please build a routine with these tasks ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I need to track my to-dos for today today.",
+    "label": 1
+  },
+  {
+    "text": "Would you what\u2019s the capital of france? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Please can you feel anything? this week.",
+    "label": 0
+  },
+  {
+    "text": "I need to what\u2019s the capital of france? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you track my to-dos for today for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Could you what's your name? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Would you plan my tasks for today for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Hey, tell me a joke in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Please arrange my tasks by priority in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Can you organize my work for this week for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Could you who created you? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Can you allocate time for these tasks ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Please add these items to my agenda for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Can you set up a task list for monday now.",
+    "label": 1
+  },
+  {
+    "text": "I want to make a timetable for my daily chores today.",
+    "label": 1
+  },
+  {
+    "text": "Please what do you think about movies? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Hey, note these as pending tasks now.",
+    "label": 1
+  },
+  {
+    "text": "Please organize my work for this week for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Can you what\u2019s the capital of france? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I want to can you chat with me? today.",
+    "label": 0
+  },
+  {
+    "text": "Could you what's your favorite food? now.",
+    "label": 0
+  },
+  {
+    "text": "I need to structure my day with these tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "Hey, what time is it? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Would you calendar these tasks for next week this week.",
+    "label": 1
+  },
+  {
+    "text": "I need to what do you think about movies? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Hey, how old are you? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Could you make a timetable for my daily chores if possible.",
+    "label": 1
+  },
+  {
+    "text": "I want to remind me to do these tasks later in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Please queue these tasks in order of importance now.",
+    "label": 1
+  },
+  {
+    "text": "Please arrange my tasks by priority now.",
+    "label": 1
+  },
+  {
+    "text": "Hey, do you have emotions? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I want to calendar these tasks for next week now.",
+    "label": 1
+  },
+  {
+    "text": "I need to allocate time for these tasks for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I want to organize my work for this week today.",
+    "label": 1
+  },
+  {
+    "text": "Please note these as pending tasks for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I need to arrange my tasks by priority if possible.",
+    "label": 1
+  },
+  {
+    "text": "I need to note these as pending tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "I want to do you remember me? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Please what's your name? now.",
+    "label": 0
+  },
+  {
+    "text": "Can you how are you? now.",
+    "label": 0
+  },
+  {
+    "text": "I want to what's your name? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Would you can you feel anything? this week.",
+    "label": 0
+  },
+  {
+    "text": "Could you assign me these tasks for tomorrow if possible.",
+    "label": 1
+  },
+  {
+    "text": "Would you how are you? this week.",
+    "label": 0
+  },
+  {
+    "text": "Can you map out my tasks for the month if possible.",
+    "label": 1
+  },
+  {
+    "text": "Could you organize my work for this week today.",
+    "label": 1
+  },
+  {
+    "text": "Hey, how are you? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Would you assign me these tasks for tomorrow now.",
+    "label": 1
+  },
+  {
+    "text": "Could you plan my tasks for today for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I need to how old are you? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Can you can you chat with me? if possible.",
+    "label": 0
+  },
+  {
+    "text": "I want to track my to-dos for today ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Hey, build a routine with these tasks in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Please tell me about yourself now.",
+    "label": 0
+  },
+  {
+    "text": "Would you tell me something interesting for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Hey, what's the weather like? now.",
+    "label": 0
+  },
+  {
+    "text": "Please can you explain black holes? now.",
+    "label": 0
+  },
+  {
+    "text": "I want to what time is it? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Could you structure my day with these tasks today.",
+    "label": 1
+  },
+  {
+    "text": "Please note these as pending tasks now.",
+    "label": 1
+  },
+  {
+    "text": "Can you where are you from? now.",
+    "label": 0
+  },
+  {
+    "text": "Please make a timetable for my daily chores ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I need to plan my tasks for today for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Would you tell me something interesting ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Can you can you feel anything? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Please what\u2019s your favorite color? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Please how are you? now.",
+    "label": 0
+  },
+  {
+    "text": "Hey, where are you from? this week.",
+    "label": 0
+  },
+  {
+    "text": "I want to allocate time for these tasks in my planner.",
+    "label": 1
+  },
+  {
+    "text": "I want to log these tasks in my checklist for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I want to calendar these tasks for next week now.",
+    "label": 1
+  },
+  {
+    "text": "Hey, make a timetable for my daily chores now.",
+    "label": 1
+  },
+  {
+    "text": "Could you what's your name? today.",
+    "label": 0
+  },
+  {
+    "text": "Please how old are you? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "I want to what's your name? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Would you log these tasks in my checklist ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I need to what's your name? today.",
+    "label": 0
+  },
+  {
+    "text": "Please allocate time for these tasks for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Can you make a timetable for my daily chores ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I need to can you explain black holes? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Would you list my pending tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "I need to make a timetable for my daily chores in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Can you add these items to my agenda this week.",
+    "label": 1
+  },
+  {
+    "text": "Please plan my tasks for today in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Hey, calendar these tasks for next week now.",
+    "label": 1
+  },
+  {
+    "text": "Would you tell me something interesting if possible.",
+    "label": 0
+  },
+  {
+    "text": "Please arrange my tasks by priority ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I want to track my to-dos for today this week.",
+    "label": 1
+  },
+  {
+    "text": "Can you can you explain black holes? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Please plan my tasks for today for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Please queue these tasks in order of importance in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Can you tell me a joke this week.",
+    "label": 0
+  },
+  {
+    "text": "Would you remind me to do these tasks later for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Could you add these items to my agenda now.",
+    "label": 1
+  },
+  {
+    "text": "Please jot down these tasks for me now.",
+    "label": 1
+  },
+  {
+    "text": "Could you what's your favorite food? this week.",
+    "label": 0
+  },
+  {
+    "text": "I want to queue these tasks in order of importance if possible.",
+    "label": 1
+  },
+  {
+    "text": "I want to track my to-dos for today ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Hey, make a timetable for my daily chores ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Hey, plan my tasks for today ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Hey, how old are you? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "I need to structure my day with these tasks now.",
+    "label": 1
+  },
+  {
+    "text": "I need to plan my tasks for today if possible.",
+    "label": 1
+  },
+  {
+    "text": "Hey, add these items to my agenda today.",
+    "label": 1
+  },
+  {
+    "text": "Please track my to-dos for today ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Can you make a timetable for my daily chores today.",
+    "label": 1
+  },
+  {
+    "text": "Would you what's your favorite food? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Hey, what do you think about movies? today.",
+    "label": 0
+  },
+  {
+    "text": "Would you list my pending tasks now.",
+    "label": 1
+  },
+  {
+    "text": "Can you can you explain black holes? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Can you how are you? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Hey, can you feel anything? today.",
+    "label": 0
+  },
+  {
+    "text": "Hey, how old are you? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Could you what time is it? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Hey, create a timeline for my project tasks today.",
+    "label": 1
+  },
+  {
+    "text": "I want to plan my tasks for today today.",
+    "label": 1
+  },
+  {
+    "text": "I want to organize my work for this week if possible.",
+    "label": 1
+  },
+  {
+    "text": "Would you what time is it? this week.",
+    "label": 0
+  },
+  {
+    "text": "Please remind me to do these tasks later now.",
+    "label": 1
+  },
+  {
+    "text": "Would you organize my work for this week ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I want to do you have emotions? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Could you create a timeline for my project tasks for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Can you tell me a joke this week.",
+    "label": 0
+  },
+  {
+    "text": "Can you log these tasks in my checklist if possible.",
+    "label": 1
+  },
+  {
+    "text": "Please map out my tasks for the month if possible.",
+    "label": 1
+  },
+  {
+    "text": "Could you do you like music? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you tell me about yourself ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Please tell me about yourself today.",
+    "label": 0
+  },
+  {
+    "text": "Would you what\u2019s your favorite color? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "I want to build a routine with these tasks in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Please can you explain black holes? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Could you what\u2019s the capital of france? this week.",
+    "label": 0
+  },
+  {
+    "text": "I need to how old are you? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Would you who created you? today.",
+    "label": 0
+  },
+  {
+    "text": "Would you build a routine with these tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "Hey, log these tasks in my checklist ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Can you what time is it? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I want to track my to-dos for today ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Can you how are you? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you plan my tasks for today this week.",
+    "label": 1
+  },
+  {
+    "text": "I need to map out my tasks for the month in my planner.",
+    "label": 1
+  },
+  {
+    "text": "I want to add these items to my agenda today.",
+    "label": 1
+  },
+  {
+    "text": "Would you can you chat with me? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I want to organize my work for this week today.",
+    "label": 1
+  },
+  {
+    "text": "I need to plan my tasks for today this week.",
+    "label": 1
+  },
+  {
+    "text": "Please create a timeline for my project tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "Could you organize my work for this week today.",
+    "label": 1
+  },
+  {
+    "text": "Please make a timetable for my daily chores now.",
+    "label": 1
+  },
+  {
+    "text": "I want to tell me about yourself for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I need to create a timeline for my project tasks in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Could you log these tasks in my checklist in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Could you who created you? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Could you how old are you? this week.",
+    "label": 0
+  },
+  {
+    "text": "I want to where are you from? this week.",
+    "label": 0
+  },
+  {
+    "text": "Could you log these tasks in my checklist if possible.",
+    "label": 1
+  },
+  {
+    "text": "I want to tell me a joke for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Would you what do you think about movies? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "I want to what's the weather like? today.",
+    "label": 0
+  },
+  {
+    "text": "Would you plan my tasks for today now.",
+    "label": 1
+  },
+  {
+    "text": "Can you what do you think about movies? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Please make a timetable for my daily chores if possible.",
+    "label": 1
+  },
+  {
+    "text": "Please tell me something interesting ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Please jot down these tasks for me ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I need to do you like music? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "I want to structure my day with these tasks today.",
+    "label": 1
+  },
+  {
+    "text": "Could you structure my day with these tasks today.",
+    "label": 1
+  },
+  {
+    "text": "Can you make a timetable for my daily chores today.",
+    "label": 1
+  },
+  {
+    "text": "Can you note these as pending tasks now.",
+    "label": 1
+  },
+  {
+    "text": "I want to allocate time for these tasks now.",
+    "label": 1
+  },
+  {
+    "text": "Can you what do you think about movies? today.",
+    "label": 0
+  },
+  {
+    "text": "Please how old are you? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I need to organize my work for this week in my planner.",
+    "label": 1
+  },
+  {
+    "text": "I need to make a timetable for my daily chores this week.",
+    "label": 1
+  },
+  {
+    "text": "I need to arrange my tasks by priority this week.",
+    "label": 1
+  },
+  {
+    "text": "Can you do you have emotions? now.",
+    "label": 0
+  },
+  {
+    "text": "Could you set up a task list for monday this week.",
+    "label": 1
+  },
+  {
+    "text": "Please map out my tasks for the month in my planner.",
+    "label": 1
+  },
+  {
+    "text": "I want to note these as pending tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "I want to jot down these tasks for me in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Would you tell me about yourself if possible.",
+    "label": 0
+  },
+  {
+    "text": "Hey, can you chat with me? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Would you make a timetable for my daily chores ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Hey, allocate time for these tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "I need to log these tasks in my checklist in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Could you can you feel anything? today.",
+    "label": 0
+  },
+  {
+    "text": "Would you what\u2019s the capital of france? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I need to create a timeline for my project tasks ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I want to set up a task list for monday in my planner.",
+    "label": 1
+  },
+  {
+    "text": "I want to jot down these tasks for me if possible.",
+    "label": 1
+  },
+  {
+    "text": "Hey, do you remember me? now.",
+    "label": 0
+  },
+  {
+    "text": "Could you how are you? today.",
+    "label": 0
+  },
+  {
+    "text": "Hey, add these items to my agenda for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I need to make a timetable for my daily chores if possible.",
+    "label": 1
+  },
+  {
+    "text": "Can you plan my tasks for today now.",
+    "label": 1
+  },
+  {
+    "text": "I need to what's the weather like? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Would you map out my tasks for the month this week.",
+    "label": 1
+  },
+  {
+    "text": "I want to do you remember me? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you assign me these tasks for tomorrow for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "I want to calendar these tasks for next week this week.",
+    "label": 1
+  },
+  {
+    "text": "Hey, tell me about yourself this week.",
+    "label": 0
+  },
+  {
+    "text": "Would you set up a task list for monday today.",
+    "label": 1
+  },
+  {
+    "text": "Hey, tell me a joke in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Can you tell me about yourself in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Please who created you? this week.",
+    "label": 0
+  },
+  {
+    "text": "I want to add these items to my agenda this week.",
+    "label": 1
+  },
+  {
+    "text": "Please what\u2019s the capital of france? today.",
+    "label": 0
+  },
+  {
+    "text": "Hey, build a routine with these tasks now.",
+    "label": 1
+  },
+  {
+    "text": "I want to tell me about yourself today.",
+    "label": 0
+  },
+  {
+    "text": "I need to remind me to do these tasks later this week.",
+    "label": 1
+  },
+  {
+    "text": "Hey, what's your name? now.",
+    "label": 0
+  },
+  {
+    "text": "I want to what do you think about movies? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I need to note these as pending tasks for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Hey, note these as pending tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "Could you calendar these tasks for next week ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Could you calendar these tasks for next week today.",
+    "label": 1
+  },
+  {
+    "text": "Can you structure my day with these tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "I want to what\u2019s the capital of france? today.",
+    "label": 0
+  },
+  {
+    "text": "Would you arrange my tasks by priority today.",
+    "label": 1
+  },
+  {
+    "text": "Would you tell me something interesting for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Hey, what do you think about movies? this week.",
+    "label": 0
+  },
+  {
+    "text": "Could you jot down these tasks for me for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Could you map out my tasks for the month ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Please plan my tasks for today this week.",
+    "label": 1
+  },
+  {
+    "text": "Hey, queue these tasks in order of importance now.",
+    "label": 1
+  },
+  {
+    "text": "Hey, map out my tasks for the month now.",
+    "label": 1
+  },
+  {
+    "text": "I need to structure my day with these tasks in my planner.",
+    "label": 1
+  },
+  {
+    "text": "Would you tell me a joke if possible.",
+    "label": 0
+  },
+  {
+    "text": "Could you what\u2019s the capital of france? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you can you feel anything? now.",
+    "label": 0
+  },
+  {
+    "text": "Hey, assign me these tasks for tomorrow today.",
+    "label": 1
+  },
+  {
+    "text": "Please build a routine with these tasks ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I want to structure my day with these tasks today.",
+    "label": 1
+  },
+  {
+    "text": "Please do you remember me? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Please what time is it? if possible.",
+    "label": 0
+  },
+  {
+    "text": "I want to how are you? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Please tell me something interesting in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Can you what\u2019s your favorite color? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Hey, structure my day with these tasks if possible.",
+    "label": 1
+  },
+  {
+    "text": "Please track my to-dos for today if possible.",
+    "label": 1
+  },
+  {
+    "text": "Please where are you from? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Please allocate time for these tasks for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Could you who created you? today.",
+    "label": 0
+  },
+  {
+    "text": "Hey, can you feel anything? today.",
+    "label": 0
+  },
+  {
+    "text": "Could you map out my tasks for the month ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Would you what time is it? today.",
+    "label": 0
+  },
+  {
+    "text": "I want to organize my work for this week today.",
+    "label": 1
+  },
+  {
+    "text": "I want to map out my tasks for the month for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Would you tell me something interesting for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "I want to note these as pending tasks ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Can you what's your name? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Would you how old are you? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Would you set up a task list for monday ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Can you arrange my tasks by priority now.",
+    "label": 1
+  },
+  {
+    "text": "I need to jot down these tasks for me if possible.",
+    "label": 1
+  },
+  {
+    "text": "Would you tell me a joke this week.",
+    "label": 0
+  },
+  {
+    "text": "I need to can you explain black holes? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Can you remind me to do these tasks later ASAP.",
+    "label": 1
+  },
+  {
+    "text": "I want to do you remember me? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Can you how are you? now.",
+    "label": 0
+  },
+  {
+    "text": "I want to note these as pending tasks ASAP.",
+    "label": 1
+  },
+  {
+    "text": "Can you do you remember me? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I need to can you feel anything? this week.",
+    "label": 0
+  },
+  {
+    "text": "Would you tell me a joke now.",
+    "label": 0
+  },
+  {
+    "text": "Hey, make a timetable for my daily chores in my planner.",
+    "label": 1
+  },
+  {
+    "text": "I want to what's your favorite food? now.",
+    "label": 0
+  },
+  {
+    "text": "Would you do you remember me? if possible.",
+    "label": 0
+  },
+  {
+    "text": "Please allocate time for these tasks today.",
+    "label": 1
+  },
+  {
+    "text": "Can you where are you from? today.",
+    "label": 0
+  },
+  {
+    "text": "Would you organize my work for this week this week.",
+    "label": 1
+  },
+  {
+    "text": "Please tell me something interesting now.",
+    "label": 0
+  },
+  {
+    "text": "Would you what\u2019s the capital of france? this week.",
+    "label": 0
+  },
+  {
+    "text": "Would you can you chat with me? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "I want to what\u2019s your favorite color? this week.",
+    "label": 0
+  },
+  {
+    "text": "I want to do you have emotions? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Would you what time is it? today.",
+    "label": 0
+  },
+  {
+    "text": "Would you do you like music? this week.",
+    "label": 0
+  },
+  {
+    "text": "I need to jot down these tasks for me for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Can you map out my tasks for the month this week.",
+    "label": 1
+  },
+  {
+    "text": "I need to create a timeline for my project tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "Could you what's the weather like? if possible.",
+    "label": 0
+  },
+  {
+    "text": "I want to can you feel anything? ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Would you make a timetable for my daily chores now.",
+    "label": 1
+  },
+  {
+    "text": "Could you map out my tasks for the month now.",
+    "label": 1
+  },
+  {
+    "text": "Can you do you remember me? in my planner.",
+    "label": 0
+  },
+  {
+    "text": "Could you structure my day with these tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "Please who created you? today.",
+    "label": 0
+  },
+  {
+    "text": "Would you tell me about yourself now.",
+    "label": 0
+  },
+  {
+    "text": "Can you assign me these tasks for tomorrow if possible.",
+    "label": 1
+  },
+  {
+    "text": "I need to queue these tasks in order of importance today.",
+    "label": 1
+  },
+  {
+    "text": "Please make a timetable for my daily chores this week.",
+    "label": 1
+  },
+  {
+    "text": "I need to do you have emotions? now.",
+    "label": 0
+  },
+  {
+    "text": "Can you do you remember me? for tomorrow.",
+    "label": 0
+  },
+  {
+    "text": "Would you calendar these tasks for next week this week.",
+    "label": 1
+  },
+  {
+    "text": "Could you arrange my tasks by priority for tomorrow.",
+    "label": 1
+  },
+  {
+    "text": "Please tell me about yourself ASAP.",
+    "label": 0
+  },
+  {
+    "text": "Please tell me something interesting if possible.",
+    "label": 0
+  },
+  {
+    "text": "Would you note these as pending tasks this week.",
+    "label": 1
+  },
+  {
+    "text": "Can you assign me these tasks for tomorrow this week.",
+    "label": 1
+  }
+]
