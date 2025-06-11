@@ -1,0 +1,7 @@
+transformers
+scikit-learn
+pyqt5
+llama-cpp-python
+torch
+datasets
+ttkbootstrap
