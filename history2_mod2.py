@@ -20,7 +20,7 @@ conversation_history = []  # Stores tuples of (speaker, message)
 
 # === User Memory ===
 user_memory = {
-    "name": "Risha",
+    "name": "your_name",
     "last_schedule": None
 }
 
@@ -36,7 +36,7 @@ def classify_intent(text):
 def generate_prompt(user_input, intent, user_memory, conversation_history):
     # Base context with memory
     prompt_parts = [
-        f"User's name: {user_memory.get('name', 'Risha')}",
+        f"User's name: {user_memory.get('name', 'your_name')}",
         f"Current time: {datetime.now().strftime('%H:%M')}",
         "Conversation history:"
     ]
