@@ -66,7 +66,7 @@ def generate_prompt(user_input, intent, user_memory, conversation_history):
 def call_gemma_locally(prompt):
     output = llm(
         prompt,
-        max_tokens=512,
+        max_tokens=1024,
         stop=["</s>", "User:", "Assistant:"],  # Added stop tokens
         temperature=0.7,
         top_p=0.9
