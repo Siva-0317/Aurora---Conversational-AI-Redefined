@@ -31,6 +31,20 @@ Install required Python packages:
 pip install -r requirements.txt
 ```
 
+---
+## Prerequisite: Train the BERT Transformer for Intent Classification
+
+Before running the chatbot, you need to train the BERT-based intent classification model:
+
+```bash
+python bert_r.py
+```
+
+This script will train and save the intent classifier required for the chatbot to understand user commands.
+
+Once training is complete, proceed to install the Gemma model as described below.
+
+
 ### 3. Download and Prepare the Language Model
 
 #### Option 1: Using LM Studio
